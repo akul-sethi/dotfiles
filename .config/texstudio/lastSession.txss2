@@ -1,0 +1,40 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "../../Documents/Northeastern Classes/CS3000/hw5.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "../../Documents/Northeastern Classes/CS3000/hw5.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../Documents/Northeastern Classes/CS3000/hw4.tex",
+                "FirstLine": 336,
+                "FoldedLines": "",
+                "Line": 338
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../Documents/Northeastern Classes/CS3000/hw3.tex",
+                "FirstLine": 229,
+                "FoldedLines": "",
+                "Line": 239
+            },
+            {
+                "Col": 133,
+                "EditorGroup": 0,
+                "FileName": "../../Documents/Northeastern Classes/CS3000/hw5.tex",
+                "FirstLine": 483,
+                "FoldedLines": "",
+                "Line": 492
+            }
+        ],
+        "MasterFile": "",
+        "VerticalSplit": true
+    }
+}

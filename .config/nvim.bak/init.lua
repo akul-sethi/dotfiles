@@ -1,0 +1,3 @@
+require("akul.lazy")
+
+
