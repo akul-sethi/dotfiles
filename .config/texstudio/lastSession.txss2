@@ -5,8 +5,14 @@
     },
     "Session": {
         "Bookmarks": [
+            {
+                "bookmarkNumber": 1,
+                "fileName": "../../Documents/Northeastern Classes/CS3000/hw5.tex",
+                "lineNumber": 482,
+                "text": "hw5.tex\n$D_1(v)$ is correct bottleneck for $D(s, v)$ as we are trying to find the maximum bottleneck, and we selected the edge with the greatest weight. It cannot be the bottle neck of another path as bottleneck is defined as the weight of the shortest path, and all the other paths have smaller weights and thus any path through them will have a smaller bottleneck. \\\\"
+            }
         ],
-        "CurrentFile": "../../Documents/Northeastern Classes/CS3000/hw5.tex",
+        "CurrentFile": "../../Downloads/artificial-intelligence-in-medicine_-current-trends-and-future-possibilities.bib",
         "FileVersion": 1,
         "Files": [
             {
@@ -26,12 +32,20 @@
                 "Line": 239
             },
             {
-                "Col": 133,
+                "Col": 226,
                 "EditorGroup": 0,
                 "FileName": "../../Documents/Northeastern Classes/CS3000/hw5.tex",
-                "FirstLine": 481,
+                "FirstLine": 468,
                 "FoldedLines": "",
-                "Line": 492
+                "Line": 482
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../Downloads/artificial-intelligence-in-medicine_-current-trends-and-future-possibilities.bib",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
             }
         ],
         "MasterFile": "",

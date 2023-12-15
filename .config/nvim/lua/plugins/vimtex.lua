@@ -35,6 +35,7 @@ return {
           vim.wo.conceallevel = 2
           vim.wo.wrap = true
           vim.wo.linebreak = true
+          vim.wo.spell = true
           vim.keymap.set("n", "<localLeader>v", ":VimtexView<CR>", { silent = true })
         end,
       })
