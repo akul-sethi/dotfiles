@@ -12,7 +12,7 @@
                 "text": "hw5.tex\n$D_1(v)$ is correct bottleneck for $D(s, v)$ as we are trying to find the maximum bottleneck, and we selected the edge with the greatest weight. It cannot be the bottle neck of another path as bottleneck is defined as the weight of the shortest path, and all the other paths have smaller weights and thus any path through them will have a smaller bottleneck. \\\\"
             }
         ],
-        "CurrentFile": "../../Downloads/artificial-intelligence-in-medicine_-current-trends-and-future-possibilities.bib",
+        "CurrentFile": "../../Documents/Northeastern Classes/PHIL1145/final.bib",
         "FileVersion": 1,
         "Files": [
             {
@@ -42,7 +42,7 @@
             {
                 "Col": 0,
                 "EditorGroup": 0,
-                "FileName": "../../Downloads/artificial-intelligence-in-medicine_-current-trends-and-future-possibilities.bib",
+                "FileName": "../../Documents/Northeastern Classes/PHIL1145/final.bib",
                 "FirstLine": 0,
                 "FoldedLines": "",
                 "Line": 0
